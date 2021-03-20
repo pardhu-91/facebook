@@ -4,7 +4,7 @@ package facebook;
  * Hello world!
  *
  */
-public class register 
+public class App 
 {
     public static void main( String[] args )
     {
